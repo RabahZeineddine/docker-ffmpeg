@@ -2,11 +2,7 @@
 
 ## What is this for?
 
-I built this to stream the webcam attached to my [OctoPi](https://octoprint.org/) to online streaming services. This docker container is meant to run on a generic Linux docker host.
-
-If you are interested in running `ffmpeg` on [Raspberry Pi](https://www.raspberrypi.org/) check out my [adilinden/rpi-ffmpeg](https://cloud.docker.com/u/adilinden/repository/docker/adilinden/rpi-ffmpeg) container and my [adilinden-oss/octoprint-webcamstreamer](https://github.com/adilinden-oss/octoprint-webcamstreamer) plugin for [OctoPi](https://octoprint.org/).
-
-The [Dockerfile](https://github.com/adilinden-oss/docker-ffmpeg/blob/master/Dockerfile) is on GitHub [adilinden-oss/docker-ffmpeg](https://github.com/adilinden-oss/docker-ffmpeg).
+This is a clone from [adilinden-oss/docker-ffmpeg](https://github.com/adilinden-oss/docker-ffmpeg).
 
 ## Building
 
